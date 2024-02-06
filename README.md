@@ -2,11 +2,11 @@
 
 Various assets of the Boozt Platform branding to use across our organization public repositories.
 
-## Logo's
+## Logo
 
 ### Gradient
 
-![Boozt Platform Gradient Logo](https://github.com/boozt-platform/branding/assets/img/boozt-platform.png "Boozt Platform")
+<img src="https://raw.githubusercontent.com/boozt-platform/branding/main/assets/img/platform-logo.png" width="300"/>
 
 ## About Boozt
 
