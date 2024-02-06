@@ -6,7 +6,7 @@ Various assets of the Boozt Platform branding to use across our organization pub
 
 ### Gradient
 
-![Boozt Platform Gradient Logo](/assets/img/boozt-platform.png "Boozt Platform")
+![Boozt Platform Gradient Logo](https://github.com/boozt-platform/branding/assets/img/boozt-platform.png "Boozt Platform")
 
 ## About Boozt
 
